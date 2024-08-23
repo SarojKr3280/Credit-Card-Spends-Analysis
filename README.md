@@ -1,6 +1,6 @@
 # Credit-Card-Spends-Analysis
 # Problem Statement
-<u> About the Data File </u><br>
+<ins> About the Data File </ins><br>
 This dataset contains insights into credit card transactions made in India, offering a comprehensive look at the 
 spending habits of Indians across the nation. <br>
  City: The city in which the transaction took place. (String) <br>
@@ -10,7 +10,7 @@ spending habits of Indians across the nation. <br>
  Gender: The gender of the cardholder. (String) <br>
  Amount: The amount of the transaction. (Number) <br>
 
-Tasks <br>
+<ins>Tasks</ins> <br>
 1. Write a query to print top 5 cities with highest spends and their percentage contribution of total credit 
 card spends.<br>
 2. Write a query to print highest spend month and amount spent in that month for each card type.<br>
